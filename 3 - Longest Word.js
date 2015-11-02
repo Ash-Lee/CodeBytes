@@ -1,5 +1,5 @@
 // 3 - Longest Word
-// Create a function that returns the longest words in a sentence.
+// Create a function that returns the longest word in a sentence.
 
 
 // Solution
@@ -35,17 +35,20 @@ function longest(str) {
 
 // Output
 console.log(longest("Grumpy wizards make toxic brew for the evil Queen and Jack"));
-console.log(longest("Grumpy wizards make toxic brew for evil wizards and naughty elves"));
-console.log(longest("Badger! Badger! Badger!"));
 // => ["wizards"]
+
+console.log(longest("Grumpy wizards make toxic brew for evil wizards and naughty elves"));
 // => ["naughty", "wizards"]
+
+console.log(longest("Badger! Badger! Badger!"));
 // => ["Badger"]
 
 /*
  * Notes
  *
  * Remove Punctuation
- * Remove none alphanumeric characters and whitespace - Collapse multiple spaces to single spaces.
+ * .replace(/[^\w\s]|_/g, "") - Replace anything that is not an alphanumeric character or whitespace.
+ * .replace(/\s+/g, " ") - Collapse multiple spaces to single spaces.
  *
  * Remove Duplicate Code
  * Only one instance of a key can exist within an object. Object keys are always unique.

@@ -43,7 +43,7 @@ console.log(letterChanges("Super secret code"));
  * substring() extracts characters from indexStart up to 'but not including' indexEnd.
  * Strings are immutable - hence the need to create a new string with substring().
  *
- * Capitalise vowels code is not strictly necessary.
+ * The capitalise vowels code is not strictly necessary.
  * Could have placed capitalised vowels directly into the 'bcd' array.
  *
  * Possible Alternative Solutions
