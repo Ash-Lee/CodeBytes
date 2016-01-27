@@ -1,9 +1,9 @@
-<!-- PHP =================================================================================
+<!-- PHP ===================================================================================
     3 - Longest Word
     Create a function which returns the largest word in a string.
     If there are two or more words that are the same length, return the first word.
     Ignore punctuation and assume the string parameter will not be empty.
-====================================================================================== -->
+======================================================================================== -->
 
 
 <!-- Solution 1 -->
