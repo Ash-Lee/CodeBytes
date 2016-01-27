@@ -1,5 +1,7 @@
-// 3 - Longest Word
-// Create a function that returns the longest word in a sentence.
+/* JavaScript ===============================================================
+    3 - Longest Word
+    Create a function that returns the longest word in a sentence.
+========================================================================== */
 
 
 // Solution

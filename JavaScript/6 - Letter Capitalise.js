@@ -1,5 +1,7 @@
-// 6 - Letter Capitalise
-// Create a function that capitalises the first letter of every word in a string.
+/* JavaScript ============================================================================
+    6 - Letter Capitalise
+    Create a function that capitalises the first letter of every word in a string.
+======================================================================================= */
 
 
 // Solution

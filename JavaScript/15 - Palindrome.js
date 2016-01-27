@@ -1,6 +1,8 @@
-// 15 - Palindrome
-// Create a function which returns true if the parameter is a palindrome. 
-// (Palindrone = A string which is the same forward as it is backward)
+/* JavaScript ==========================================================================
+    15 - Palindrome
+    Create a function which returns true if the parameter is a palindrome. 
+    (A string which is the same forwards as it is backwards)
+===================================================================================== */
 
 
 // Solution

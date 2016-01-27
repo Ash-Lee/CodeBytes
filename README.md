@@ -19,3 +19,11 @@ A series of challenges designed to test coding comprehension and problem solving
 14. [Ex Oh](https://github.com/Ash-Lee/CodeBytes/blob/master/14%20-%20Ex%20Oh.js)
 15. [Palindrome](https://github.com/Ash-Lee/CodeBytes/blob/master/15%20-%20Palindrome.js)
 16. [Arith Geo](https://github.com/Ash-Lee/CodeBytes/blob/master/16%20-%20Arith%20Geo.js)
+17. [Powers of Two]()
+
+##### PHP
+1. [String Reversal]()
+2. [Factorials]()
+3. [Longest Word]()
+4. [Letter Changes]()
+5. [Simple Adding]()

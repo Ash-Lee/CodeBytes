@@ -1,10 +1,12 @@
-// 4 - Letter Changes
-// Create a function that modifies a string according to the following algorithm:
-// Replace every letter in the string with the letter following it in the alphabet (i.e. c becomes d, z becomes a).
-// Capitalise every vowel in this new string (a, e, i, o, u).
+/* JavaScript ===============================================================================================================
+    4 - Letter Changes
+    Create a function that modifies a string according to the following algorithm:
+    Replace every letter in the string with the letter following it in the alphabet (i.e. c becomes d, z becomes a).
+    Capitalise every vowel in this new string.
+========================================================================================================================== */
 
 
-// Solution 1
+// Solution
 function letterChanges(str) {
     var abc = [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
         bcd = [" ", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "a"],

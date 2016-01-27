@@ -1,6 +1,8 @@
-// 14 - Ex Oh
-// Create a function that returns the string "true" if there is an equal number of x's and o's.
-// (i.e. "xooxxxxooxo" = "false" - 6 x's vs 5 0's)
+/* JavaScript ========================================================================================
+    14 - Ex Oh
+    Create a function that returns the string "true" if there is an equal number of x's and o's.
+    (i.e. "xooxxxxooxo" = "false" - 6 x's vs 5 o's)
+=================================================================================================== */
 
 
 // Solution

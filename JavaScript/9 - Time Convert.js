@@ -1,7 +1,8 @@
-// 9 - Time Convert
-// Create a function that converts a parameter into hours and minutes.
-// Separate the hours and minutes with a colon.
-// (i.e. if num = 63 then the output should be 1:3)
+/* JavaScript ===========================================================================================
+    9 - Time Convert
+    Create a function that converts a parameter into hours and minutes.
+    Separate the hours and minutes with a colon (i.e. if num = 63 then the output should be 1:3).
+====================================================================================================== */
 
 
 // Solution - Modulo Operator

@@ -1,8 +1,10 @@
-// 12 - Vowel Count
-// Create a function that returns the number of vowels in a string.
+/* JavaScript ===============================================================
+    12 - Vowel Count
+    Create a function that returns the number of vowels in a string.
+========================================================================== */
 
 
-// Solution - For..Of Loop
+// Solution - For... Of Loop
 function vowelCount(str) {
     var vowels = ["a", "e", "i", "o", "u"],
         result = 0;

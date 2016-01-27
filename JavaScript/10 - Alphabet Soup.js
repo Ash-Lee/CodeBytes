@@ -1,6 +1,8 @@
-// 10 - Alphabet Soup
-// Create a function that returns a string with the letters in alphabetical order (i.e. hello = ehllo).
-// Numbers, spaces and punctuation symbols should not be included in the string.
+/* JavaScript ================================================================================================
+    10 - Alphabet Soup
+    Create a function that returns a string with the letters in alphabetical order (i.e. hello = ehllo).
+    Numbers, spaces and punctuation symbols should not be included in the string.
+=========================================================================================================== */
 
 
 // Solution

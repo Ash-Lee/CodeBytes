@@ -1,7 +1,9 @@
-// 8 - Check Numbers
-// Create a function that compares two numbers.
-// Return string "true" if num2 is greater than num1, otherwise return "false".
-// If the parameter values are equal, return string "-1".
+/* JavaScript ============================================================================
+    8 - Check Numbers
+    Create a function that compares two numbers.
+    Return string "true" if num2 is greater than num1, otherwise return "false".
+    If the parameter values are equal, return string "-1".
+======================================================================================= */
 
 
 // Solution 1 - Ternary Operator

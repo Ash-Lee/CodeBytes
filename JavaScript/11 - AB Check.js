@@ -1,7 +1,8 @@
-// 11 - AB Check
-// Create a function that returns the string "true" if the characters a and b are separated by exactly 3 places
-// anywhere in the string at least once. Otherwise return string "false".
-// (i.e. "lane borrowed" = true - 'ane b')
+/* JavaScript ===========================================================================================================
+    11 - AB Check
+    Create a function that returns the string "true" if the characters a and b are separated by exactly 3 places
+    anywhere in the string at least once. Otherwise return string "false". (i.e. "lane borrowed" = true - 'ane b')
+====================================================================================================================== */
 
 
 // Solution
@@ -20,7 +21,6 @@ function abCheck(str) {
     
     return ((passCheck) ? (passCheck + ": " + passes + " times") : "False");   
 }
-
 
 // Output
 console.log(abCheck("Lara sobs"));

@@ -1,5 +1,7 @@
-// 2 - Factorials
-// Create a function that returns the factorial of a number.
+/* JavaScript ===============================================================
+    2 - Factorials
+    Create a function that returns the factorial of a number.
+========================================================================== */
 
 
 // Solution 1 - Iteration

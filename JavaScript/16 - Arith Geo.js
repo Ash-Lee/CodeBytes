@@ -1,9 +1,11 @@
-// 16 - Arith Geo
-// Create a function that takes an array of numbers and returns the string "Arithmetic" if the
-// sequence follows an arithmetic pattern or return "Geometric" if it follows a geometric pattern.
-// If the sequence doesn't follow either pattern return "-1".
-// (Arithmetic sequence - difference between each of the numbers is consistent - [2, 4, 6, 8] = n + 2)
-// (Geometric sequence - each term after the first is multiplied by some constant ratio - [2, 6, 18, 54] = n * 3)
+/* JavaScript =============================================================================================================
+    16 - Arith Geo
+    Create a function that takes an array of numbers and returns the string "Arithmetic" if the
+    sequence follows an arithmetic pattern or return "Geometric" if it follows a geometric pattern.
+    If the sequence doesn't follow either pattern return "-1".
+    (Arithmetic sequence - difference between each of the numbers is consistent - [2, 4, 6, 8] = n + 2)
+    (Geometric sequence - each term after the first is multiplied by some constant ratio - [2, 6, 18, 54] = n * 3)
+========================================================================================================================= */
 
 
 // Solution

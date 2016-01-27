@@ -1,5 +1,7 @@
-// 5 - Simple Adding
-// Create a function that adds up all numbers from 1 to num.
+/* JavaScript ===============================================================
+    5 - Simple Adding
+    Create a function that adds up all numbers from 1 to num.
+========================================================================== */
 
 
 // Solution 1 - For Loop
