@@ -1,4 +1,5 @@
 /* JavaScript ========================================================================================
+    18 - FizzBuzz
     Write a function called fizzbuzz that accepts a single argument n.
     Fizzbuzz should return "Fizz" if n is a multiple of 3, "Buzz" if n is a multiple of 5,
     and n if n is a multiple of neither 3 nor 5.
