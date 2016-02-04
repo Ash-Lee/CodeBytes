@@ -7,7 +7,7 @@
 
 // Solution 1
 var gridSize = prompt("Size of grid"),
-    chessBoard = "";
+  chessBoard = "";
 
 for (var line = 0; line < gridSize; line++) {
   
@@ -24,7 +24,7 @@ for (var line = 0; line < gridSize; line++) {
  
 // Output (8)
 console.log(chessBoard);
-/*
+/* =>
 # # # # 
  # # # #
 # # # # 
@@ -76,7 +76,7 @@ Board.prototype.createFrame = function() {
 // Output
 var chessBoard = new Board(8);
 console.log(chessBoard.grid);
-/*
+/* =>
 ------------------
 |##  ##  ##  ##  |
 |  ##  ##  ##  ##|
@@ -136,7 +136,7 @@ function Board(gridSize) {
 // Output
 var chessBoard = new Board(8);
 console.log(chessBoard.display());
-/* 
+/* =>
 ------------------
 |##  ##  ##  ##  |
 |  ##  ##  ##  ##|
@@ -162,7 +162,7 @@ function Board(gridSize) {
     for (var frame = 0; frame < ((this.size * 2) + 2); frame++) {
       this.grid += "-";
     }
-    
+
     this.grid += "\n";
   };
 
@@ -202,7 +202,7 @@ function Board(gridSize) {
 // Output
 var chessBoard = new Board(8);
 console.log(chessBoard.display());
-/*
+/* =>
 ------------------
 |##  ##  ##  ##  |
 |  ##  ##  ##  ##|
@@ -217,7 +217,7 @@ console.log(chessBoard.display());
 
 var chessBoard = new Board(20);
 console.log(chessBoard.display());
-/*
+/* =>
 ------------------------------------------
 |##  ##  ##  ##  ##  ##  ##  ##  ##  ##  |
 |  ##  ##  ##  ##  ##  ##  ##  ##  ##  ##|

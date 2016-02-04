@@ -20,8 +20,8 @@ A series of challenges designed to test coding comprehension and problem solving
 15. [Palindrome](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/15%20-%20Palindrome.js)
 16. [Arith Geo](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/16%20-%20Arith%20Geo.js)
 17. [Powers of Two](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/17%20-%20Powers%20of%20Two.js)
-18. [FizzBuzz]()
-19. [Chess Board]() - __OOP__
+18. [FizzBuzz](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/18%20-%20FizzBuzz.js)
+19. [Chess Board](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/19%20-%20Chess%20Board.js) - __OOP__
 
 ##### PHP
 1. [String Reversal](https://github.com/Ash-Lee/CodeBytes/blob/master/PHP/1%20-%20String%20Reversal.php)
