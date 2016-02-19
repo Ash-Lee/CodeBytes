@@ -22,7 +22,6 @@ A series of challenges designed to test coding comprehension and problem solving
 17. [Powers of Two](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/17%20-%20Powers%20of%20Two.js)
 18. [FizzBuzz](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/18%20-%20FizzBuzz.js)
 19. [Chessboard](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/19%20-%20Chessboard.js) - __OOP__
-20. [Star Wars](https://github.com/Ash-Lee/CodeBytes/blob/master/JavaScript/20%20-%20Star%20Wars.js) - __OOP + Prototypal Inheritance__ - _work in progress_
 
 ##### PHP
 1. [String Reversal](https://github.com/Ash-Lee/CodeBytes/blob/master/PHP/1%20-%20String%20Reversal.php)
